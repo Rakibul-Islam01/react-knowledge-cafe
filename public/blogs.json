@@ -1,0 +1,52 @@
+[
+  {
+    "id": "001",
+    "cover": "https://i.ibb.co/YZg4GKT/img2.jpg",
+    "title": "The Mystery of the Lost Key",
+    "author": "Jane Doe",
+    "author_img": "https://example.com/authors/janedoe.jpg",
+    "posted_date": "2024-03-19",
+    "reading_time": "15 mins",
+    "hashtag": ["mystery", "adventure", "detective"]
+  },
+  {
+    "id": "002",
+    "cover": "https://i.ibb.co/FqH3csX/img1.jpg",
+    "title": "Secrets of the Enchanted Forest",
+    "author": "John Smith",
+    "author_img": "https://example.com/authors/johnsmith.jpg",
+    "posted_date": "2024-03-18",
+    "reading_time": "20 mins",
+    "hashtag": ["fantasy", "magic", "adventure"]
+  },
+  {
+    "id": "003",
+    "cover": "https://i.ibb.co/YZg4GKT/img2.jpg",
+    "title": "Space Odyssey: Journey to the Unknown",
+    "author": "Max Power",
+    "author_img": "https://example.com/authors/maxpower.jpg",
+    "posted_date": "2024-03-17",
+    "reading_time": "30 mins",
+    "hashtag": ["sciencefiction", "space", "exploration"]
+  },
+  {
+    "id": "004",
+    "cover": "https://i.ibb.co/YZg4GKT/img2.jpg",
+    "title": "The Haunted Manor",
+    "author": "Emily Brown",
+    "author_img": "https://example.com/authors/emilybrown.jpg",
+    "posted_date": "2024-03-16",
+    "reading_time": "25 mins",
+    "hashtag": ["horror", "ghosts", "mystery"]
+  },
+  {
+    "id": "005",
+    "cover": "https://i.ibb.co/YZg4GKT/img2.jpg",
+    "title": "Lost in Time: A Historical Adventure",
+    "author": "David Lee",
+    "author_img": "https://example.com/authors/davidlee.jpg",
+    "posted_date": "2024-03-15",
+    "reading_time": "18 mins",
+    "hashtag": ["historical", "adventure", "time-travel"]
+  }
+]
