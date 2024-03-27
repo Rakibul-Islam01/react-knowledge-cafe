@@ -1,52 +1,42 @@
 [
   {
     "id": "001",
-    "cover": "https://i.ibb.co/YZg4GKT/img2.jpg",
+    "cover": "https://i.pinimg.com/originals/18/50/4e/18504efec41edcaeb5e8eddf082822a0.jpg",
     "title": "The Mystery of the Lost Key",
     "author": "Jane Doe",
-    "author_img": "https://example.com/authors/janedoe.jpg",
+    "author_img": "https://www.cb.cityu.edu.hk/mba/images/highlights/forum/20190506/Michael%20YU.jpeg",
     "posted_date": "2024-03-19",
-    "reading_time": "15 mins",
+    "reading_time": 15,
     "hashtag": ["mystery", "adventure", "detective"]
   },
   {
     "id": "002",
-    "cover": "https://i.ibb.co/FqH3csX/img1.jpg",
+    "cover": "https://d193ppza2qrruo.cloudfront.net/production/images/scary-road-movies.jpg",
     "title": "Secrets of the Enchanted Forest",
     "author": "John Smith",
-    "author_img": "https://example.com/authors/johnsmith.jpg",
+    "author_img": "https://www.cb.cityu.edu.hk/mba/images/highlights/forum/20190506/Michael%20YU.jpeg",
     "posted_date": "2024-03-18",
-    "reading_time": "20 mins",
+    "reading_time": 20,
     "hashtag": ["fantasy", "magic", "adventure"]
   },
   {
     "id": "003",
-    "cover": "https://i.ibb.co/YZg4GKT/img2.jpg",
+    "cover": "https://th.bing.com/th/id/R.4eb0d0162bfa5e554a225223606b1a94?rik=R%2boaP9Q6NE%2fD%2bg&pid=ImgRaw&r=0",
     "title": "Space Odyssey: Journey to the Unknown",
     "author": "Max Power",
-    "author_img": "https://example.com/authors/maxpower.jpg",
+    "author_img": "https://th.bing.com/th/id/R.4eb0d0162bfa5e554a225223606b1a94?rik=R%2boaP9Q6NE%2fD%2bg&pid=ImgRaw&r=0",
     "posted_date": "2024-03-17",
-    "reading_time": "30 mins",
+    "reading_time": 30,
     "hashtag": ["sciencefiction", "space", "exploration"]
   },
   {
     "id": "004",
-    "cover": "https://i.ibb.co/YZg4GKT/img2.jpg",
+    "cover": "https://th.bing.com/th/id/R.669de49c5988602b4f8b7256b7a5a37d?rik=iTuL7RDEMGNTVA&riu=http%3a%2f%2fwww.lovethispic.com%2fuploaded_images%2f40534-Haunted-Mansion.jpg&ehk=GpSuU78hZqaDKRujSUdOlYE%2fnD%2fi8U%2bwP3j5CVBKDx4%3d&risl=&pid=ImgRaw&r=0",
     "title": "The Haunted Manor",
     "author": "Emily Brown",
-    "author_img": "https://example.com/authors/emilybrown.jpg",
+    "author_img": "https://www.cb.cityu.edu.hk/mba/images/highlights/forum/20190506/Michael%20YU.jpeg",
     "posted_date": "2024-03-16",
-    "reading_time": "25 mins",
+    "reading_time":25,
     "hashtag": ["horror", "ghosts", "mystery"]
-  },
-  {
-    "id": "005",
-    "cover": "https://i.ibb.co/YZg4GKT/img2.jpg",
-    "title": "Lost in Time: A Historical Adventure",
-    "author": "David Lee",
-    "author_img": "https://example.com/authors/davidlee.jpg",
-    "posted_date": "2024-03-15",
-    "reading_time": "18 mins",
-    "hashtag": ["historical", "adventure", "time-travel"]
   }
 ]
